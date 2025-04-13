@@ -1,2 +1,3 @@
-# Pet-shop-
-A pet card using HTML AND CSS
+git add .
+git commit -m "Moved index.html to root"
+git push
